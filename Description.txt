@@ -1,0 +1,17 @@
+Windows Photo Viewer –  Simulation, simulates the windows photo viewer that was used in windows 7 or may be 8. 
+It has all the main features of the original WPV, like
+
+Next Image
+Previous Image
+Rotate
+Crop
+Delete
+Slideshow
+Print (Just Simulates the printing process)
+Email  (Just Simulates the printing process)
+Show Image Info
+List view
+Search
+Quit
+
+This applications assumes an image to be a 2D random string matrix. It uses DLL for showing next and previous images.
